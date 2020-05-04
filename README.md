@@ -1,2 +1,2 @@
 # todolist
-To do list web aplication written in HTML CSS and JavaScript.
+To do list web application written in HTML CSS and JavaScript.
